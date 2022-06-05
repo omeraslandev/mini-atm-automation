@@ -1,0 +1,1 @@
+Her bir kod satırının çalışma mantığı kaynak kodunda açıklama satırı şeklinde eklenmiştir.

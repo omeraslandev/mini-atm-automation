@@ -1,0 +1,10 @@
+https://docs.microsoft.com/tr-tr/dotnet/api/system.windows.forms.form.closed?view=windowsdesktop-6.0
+https://trmsma.wordpress.com/2017/06/24/c-ta-substring-metodu/
+https://stackoverflow.com/questions/33290694/sqlconnection-open-returns-a-stackoverflow-exception
+https://forum.donanimhaber.com/iki-class-arasi-degisken-almak--61783441
+https://social.msdn.microsoft.com/Forums/tr-TR/1e8c34be-eeb6-416b-ba5b-5e1ddd923e9a/c-quotncelikle-kapatlmas-gereken-ak-bir-datareader-zaten-varquot-hatasi-acl-yardim?forum=yazilimgeneltr
+https://code.replyfeed.com/sorular/6105/bu-command-ile-iliskili-oncelikle-kapatilmasi-gereken-acik-bir-datareader
+https://www.hikmetokumus.com/makale/51/csharp-ile-sqldatareader-kullanimi
+https://www.kodevreni.com/2687-executenonquery-hatas%C4%B1/
+https://stackoverflow.com/questions/21638750/from-c-how-to-find-the-names-of-the-columns-of-a-table-in-sql-server
+https://stackoverflow.com/questions/19392331/get-column-name-from-sql-server
